@@ -1,4 +1,4 @@
-#Sahan Nimesha
-## Full-Stack Software Developer
+Sahan Nimesha
+ -Full-Stack Software Developer
 
-###### © 2023 profile portfolio ~Sahan Nimesha~
+© 2023 profile portfolio ~Sahan Nimesha~
